@@ -8,6 +8,7 @@
     <img alt="" src="https://img.shields.io/github/downloads/OrangeJedi/Aerial/total?style=flat-square" />
 </p>
 
+# NOTE: This is a forked version of the Aerial Screensaver from OrangeJedi. For the original project this is based off of, visit [here.](https://github.com/OrangeJedi/Aerial/releases)
 # Aerial - Apple TV Screen Saver for Windows
  
 Aerial is a Windows screen saver that mimics the Apple TV screen saver that displays the videos Apple shot over New York, San Francisco, Hawaii, China, etc. as well as from the ISS and various underwater locations.
